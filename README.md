@@ -1,7 +1,7 @@
 # Clone - Spotify
 
 ## 🚀 Começando
-Criei um site simples proposto pela Imã Tech seguindo os passos de um instrutor com uma barra de navegação, uma seção de destaque (showcase), uma seção de rodapé (footer) e alguns botões de redes sociais. Além disso, você adicionou funcionalidade aos botões e links para abrir em novas abas. Aqui está um resumo do que foi feito:
+Criei um site simples proposto pela Imã Tech seguindo os passos de um instrutor com uma barra de navegação, uma seção de destaque (showcase), uma seção de rodapé (footer) e alguns botões de redes sociais. Além disso, adicionei funcionalidade aos botões e links para abrir em novas abas. Aqui está um resumo do que foi feito:
 
 
 ⚙️ Construção
